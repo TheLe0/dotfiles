@@ -1,0 +1,13 @@
+*.tmproj
+.DS_Store
+tags
+tags.new
+*.rbc
+.bundle
+ruby/bundle.symlink/cache
+./tags
+.envrc
+.agignore
+__pycache__
+/.idea
+/.vs
