@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "java.semanticHighlighting.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.openEditors.visible": 0,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "git.autofetch": true
+}
